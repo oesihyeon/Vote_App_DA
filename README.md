@@ -7,25 +7,28 @@
 > 대시보드 설계 단계에서 수립한 비즈니스 핵심 지표를 토대로 대시보드 개발을 진행하였다.
 > 
 - Overview
+![image](https://github.com/user-attachments/assets/0649162b-1b03-4afa-bb47-b11a1ff5a061)
 
-![image.png](attachment:0ed0dc85-bd59-4580-a164-083bacafe55b:image.png)
 
 - User Behavior (유저 행동 지표)
-    
-    ![image.png](attachment:41b7ad00-4212-4304-af46-4c8e4d3a1fe9:image.png)
+![image](https://github.com/user-attachments/assets/21dc3045-1a3a-479e-b1e6-0ac558ce10ae)
+
     
 - Sales (판매 관련 지표)
     
-    ![4_sales.png](attachment:be29cfe5-1a90-4364-9fb0-0c30b6e40ea8:4_sales.png)
+![image](https://github.com/user-attachments/assets/1fa68164-4b2a-4962-9b2d-db28332e23d3)
+
     
 
 - Accounts Info (계정 정보)
     
-    ![image.png](attachment:7359533a-d7a2-4d9a-88d3-1f49a9ebcf9b:image.png)
+![image](https://github.com/user-attachments/assets/5a32e833-ad58-49ee-81d4-f2840bdb1e4f)
+
     
 - Contents (콘텐츠 관련 지표)
     
-    ![image.png](attachment:9c44e59d-1a2c-4945-9f7d-253289668c8e:image.png)
+![Uploading image.png…]()
+
     
 
 ---
