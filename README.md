@@ -5,6 +5,7 @@
 ## 5-2. 대시보드 개발
 
 > 대시보드 설계 단계에서 수립한 비즈니스 핵심 지표를 토대로 대시보드 개발을 진행하였다.
+> 대시보드는 Snowflake에서 적재한 데이터를 가공하여 Looker에서 제작하였다. 
 > 
 - Overview
 ![image](https://github.com/user-attachments/assets/0649162b-1b03-4afa-bb47-b11a1ff5a061)
