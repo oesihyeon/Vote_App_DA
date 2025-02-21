@@ -28,7 +28,8 @@
     
 - Contents (콘텐츠 관련 지표)
     
-![Uploading image.png…]()
+****![image](https://github.com/user-attachments/assets/569ad391-72a7-449b-ac4c-36e0bae30087)
+
 
     
 
